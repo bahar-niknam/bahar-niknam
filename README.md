@@ -22,11 +22,6 @@ My primary interests lie in Bayesian statistics, machine learning algorithms, an
 
 ---
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahar-niknam&show_icons=true&theme=default)
-
----
-
 ## Contact Information
 - Email: niiknam.baahar@gmail.com
 ---
