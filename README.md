@@ -1,8 +1,8 @@
 # About Me
 
-I am Bahar Niknam, with a background in Mathematical Statistics and research interests in deep learning and computer vision.
+I am Bahar Niknam, with a background in Mathematical Statistics and an interest in deep learning and computer vision.
+My recent work has focused on data-efficient visual learning, uncertainty-aware deep learning, and Transformer-based models for medical image analysis. I am interested in understanding how deep neural networks learn from limited and uncertain data, and how statistical approaches can improve the reliability and efficiency of modern AI systems.
 
-My work focuses on data-efficient visual learning, uncertainty-aware deep learning, and Transformer-based architectures, particularly for medical image analysis. I am especially interested in understanding how deep neural networks learn under limited and uncertain data conditions, and how statistical approaches can improve the reliability and efficiency of modern AI systems.
 ---
 
 ## Research Interests
